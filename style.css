@@ -171,7 +171,7 @@ body {
     margin: 0 auto;
     text-align: center;
     font-weight: 500;
-    color: #7c8ba1;
+    color: 1#7c8ba1;
     line-height: 1.5;
     margin-bottom: 40px;
 }
@@ -192,6 +192,25 @@ body {
     padding: 20px;
     height: 24px;
     border-radius: 100px;
+}
+
+.features_description {
+    margin-top: 8px;
+}
+
+.features_description--title {
+    margin: 0;
+    color: black;
+    font-size: 24px;
+}
+
+.features_description {
+    color: #7c8ba1;
+    margin: 0;
+    margin-top: 16px;
+    line-height: 1.75;
+    font-weight: 500;
+
 }
 
     
