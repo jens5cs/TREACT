@@ -236,12 +236,12 @@ QUALITY WORK
 
 .section_quality--work {
     display: flex;
+    
    }
 
 .quality--work_container {
     width: 50%;
-    display: flex;
-    flex-direction: column;
+  
 }
 
 .quality--work_head {
@@ -265,21 +265,15 @@ QUALITY WORK
     color: #6415ff;
 }
 
- .quality--work__btn {
-   
-    background-color: #6415ff;
-    color: #f7fafc;
-    padding: 12px 32px;
-    border-radius: 32px;
-    transition: all 0.3s ease;
-   }
+ 
 
 .quality--work_svg--holder {
-    width: 50%;
+    width: 60%;
+    
 }
 
 .quality--work_svg {
-    width: 100%;
+    width: 150%;
 }
 
 
