@@ -144,6 +144,10 @@ body {
     margin-bottom: 48px;
 }
 
+/*
+FEATURES
+*/
+
 .features_head {
   font-size: 16px;
   color: #6415ff;
@@ -179,6 +183,7 @@ body {
 .features_box {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
+    padding: 0 80px;
 }
 
 
@@ -211,6 +216,78 @@ body {
     line-height: 1.75;
     font-weight: 500;
 
+}
+
+/*
+QUALITY WORK
+*/
+
+
+
+.section_quality--work {
+   
+    
+    
+    
+}
+
+
+.quality--work_container {
+    width: 60%;
+}
+
+.quality--work_head {
+  font-size: 16px;
+  color: #6415ff;
+  text-transform: uppercase;
+  margin: 0;
+  margin-bottom: 16px;
+  margin-top: 80px;
+  letter-spacing: 1px;
+}
+
+.quality--work_heading {
+    font-size: 40px;
+    font-weight: 900;
+    margin: 0;
+    margin-bottom: 24px;
+}
+
+.quality--work_svg--holder {
+    width: 60%;
+}
+
+.quality--work_svg {
+    width: 100%;
+}
+
+
+
+
+
+/*
+VALUES
+*/
+
+.values_head {
+  font-size: 16px;
+  color: #6415ff;
+  text-transform: uppercase;
+  margin: 0;
+  margin-bottom: 16px;
+  margin-top: 80px;
+  letter-spacing: 1px;
+}
+
+.values_heading {
+    font-size: 40px;
+    font-weight: 900;
+    margin: 0;
+    margin-bottom: 24px;
+}
+
+.values_heading span {
+    color: #6415ff;
 }
 
     
